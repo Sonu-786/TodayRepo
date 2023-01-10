@@ -9,6 +9,8 @@ public class Demo01 {
 	public void tc1()
 	{
 		Reporter.log("Hii",true);
+                Reporter.log("Hii Change",true);
+
 	}
 
 }
